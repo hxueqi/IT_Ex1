@@ -1,2 +1,7 @@
 	¡Hola, buenos días!
+<<<<<<< HEAD
         We are continue working...
+=======
+	This is the second vision.
+
+>>>>>>> branch1
